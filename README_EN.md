@@ -1,9 +1,7 @@
 # Histogram and Histogram Equalization
 
 [Vietnamese](README.md) | English
-
-A Digital Image Processing course project that demonstrates Histogram Equalization on 8-bit grayscale images using Python.
-
+A Digital Image Processing project that demonstrates Histogram Equalization on 8-bit grayscale images using Python.
 ## Features
 
 - Read input images as 8-bit grayscale images.
