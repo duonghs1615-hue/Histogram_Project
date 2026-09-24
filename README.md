@@ -26,7 +26,7 @@ Histogram_Project/
 Máy cần cài Python. Mở Terminal tại thư mục dự án và cài các thư viện:
 
 ```powershell
-py -m pip install numpy opencv-python matplotlib
+py -m pip install -r requirements.txt
 ```
 
 Nếu chưa tải mã nguồn, có thể lấy dự án bằng Git:
