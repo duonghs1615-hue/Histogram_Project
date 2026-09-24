@@ -73,6 +73,6 @@ def show_dashboard(
     top=0.91,
     bottom=0.10,
     hspace=0.08,
-    wspace=0.12
+    wspace=0.30
 )
     plt.show()
