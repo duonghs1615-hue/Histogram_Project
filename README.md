@@ -1,3 +1,4 @@
+[Tiếng Việt](README.md) | [English](README_EN.md)
 # Histogram và Cân bằng Histogram
 
 Xây dựng chương trình minh họa thuật toán Histogram Equalization trên ảnh xám 8-bit bằng Python.
