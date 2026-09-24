@@ -23,7 +23,7 @@ Histogram_Project/
 
 ## Cài đặt
 
-Máy cần cài Python. Mở Terminal tại thư mục dự án và cài các thư viện:
+Máy cần cài Python. Mở Terminal tại thư mục dự án và cài thư viện:
 
 ```powershell
 py -m pip install -r requirements.txt
