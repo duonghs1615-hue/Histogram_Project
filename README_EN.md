@@ -28,7 +28,7 @@ Histogram_Project/
 Install Python, then open a terminal in the project directory and install the required packages:
 
 ```powershell
-py -m pip install numpy opencv-python matplotlib
+py -m pip install -r requirements.txt
 ```
 
 To clone the repository:
