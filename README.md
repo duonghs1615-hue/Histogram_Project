@@ -1,6 +1,6 @@
 # Histogram và Cân bằng Histogram
 
-Bài tập lớn môn Xử lý ảnh, xây dựng chương trình minh họa thuật toán Histogram Equalization trên ảnh xám 8-bit bằng Python.
+Xây dựng chương trình minh họa thuật toán Histogram Equalization trên ảnh xám 8-bit bằng Python.
 
 ## Chức năng
 
