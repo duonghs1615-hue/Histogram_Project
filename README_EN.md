@@ -25,7 +25,7 @@ Histogram_Project/
 
 ## Installation
 
-Install Python, then open a terminal in the project directory and install the required packages:
+Install Python, then open a terminal in the project directory and install the required package:
 
 ```powershell
 py -m pip install -r requirements.txt
