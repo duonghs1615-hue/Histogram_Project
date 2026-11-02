@@ -42,7 +42,7 @@ def create_mapping(cdf, hist):
     cdf_min = cdf[used_levels[0]]
 
     # Constant image
-    if np.isclose(cdf_min, 1.0):
+    if len(used_levels) == 1:
         return np.arange(GRAY_LEVELS, dtype=np.uint8)
 
     mapping = np.zeros(GRAY_LEVELS, dtype=np.uint8)
